@@ -1,7 +1,7 @@
-# [Artemgus Generator](https://artemgus.010.one)
+# [CoolArtemgus® Generator](https://artemgus.lintn.de)
 This is a generator for images of Artemgus.
 
-[![Artemgus](.github/screenshots/screenshot.png)](https://artemgus.010.one)
+[![CoolArtemgus®](.github/screenshots/screenshot.png)](https://artemgus.lintn.de)
 
 ### Contributing
 Please feel free to add more stuff, like new SVG templates.
