@@ -1,5 +1,5 @@
 # [CoolArtemgus® Generator](https://artemgus.lintn.de)
-This is a generator for images of Artemgus.
+This is a generator for images of CoolArtemgus®.
 
 [![CoolArtemgus®](.github/screenshots/screenshot.png)](https://artemgus.lintn.de)
 
